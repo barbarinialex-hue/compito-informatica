@@ -1,0 +1,32 @@
+#map {
+    height: 450px;
+    border: 2px solid #28a745;
+    border-radius: 8px;
+}
+
+.stato-in_corso {
+    background: #28a745 !important;
+    color: white;
+}
+
+.stato-completata {
+    background: #198754 !important;
+    color: white;
+}
+
+.stato-programmata {
+    background: #ffc107 !important;
+    color: black;
+}
+
+.stato-annullata {
+    background: #dc3545 !important;
+    color: white;
+}
+
+.info-box {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+}
